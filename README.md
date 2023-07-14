@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML CSS React**
 
-- 📫 How to reach me **gokulnath.rs@proton.me**
+- 📫 How to reach me **[Contact Me](https://shor.by/gokulnath-rs)**
 
 - 📄 Know about my experiences [resume](gokulnath-resume.netlify.app/)
 
