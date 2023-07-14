@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN Stack , Data Structures ,..**
 
-- 👨‍💻 All of my projects are available at [gokulnath-rs.netlify.app/](gokulnath-rs.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](gokulnath-rs.netlify.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **gokulnath.rs@proton.me**
 
-- 📄 Know about my experiences [gokulnath-resume.netlify.app/](gokulnath-resume.netlify.app/)
+- 📄 Know about my experiences [resume](gokulnath-resume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
