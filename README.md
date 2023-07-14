@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](gokulnath-rs.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML CSS React**
 
 - 📫 How to reach me **gokulnath.rs@proton.me**
 
