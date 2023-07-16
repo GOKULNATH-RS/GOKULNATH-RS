@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulnath-rs&label=Profile%20views&color=0e75b6&style=flat" alt="gokulnath-rs" /> </p>
 
-- 🔭 I’m currently working on [knowmynation](knowmynation.netlify.app/) **Website Building**
+- 🔭 I’m currently working on [knowmynation](https://knowmynation.netlify.app/) **Website Building**
 
 - 🌱 I’m currently learning **MERN Stack , Data Structures ,..**
 
-- 👨‍💻 All of my projects are available at [Portfolio](gokulnath-rs.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gokulnath-rs.netlify.app/)
 
 - 💬 Ask me about **HTML CSS React**
 
 - 📫 How to reach me **[Contact Me](https://shor.by/gokulnath-rs)**
 
-- 📄 Know about my experiences [resume](gokulnath-resume.netlify.app/)
+- 📄 Know about my experiences [resume](https://gokulnath-resume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
