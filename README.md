@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [knowmynation](https://knowmynation.netlify.app/) **Website Building**
 
-- 🌱 I’m currently learning **MERN Stack , Data Structures ,..**
+- 🌱 I’m currently learning **MERN Stack , Data Structures .**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gokulnath-rs.netlify.app/)
 
