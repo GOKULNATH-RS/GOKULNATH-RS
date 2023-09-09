@@ -21,8 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gokulnath_2329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulnath_2329" height="30" width="40" /></a>
-<a href="https://dribbble.com/gokulnath-rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gokulnath-rs" height="30" width="40" /></a>
+<a href="https://twitter.com/gokulnath_2329" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulnath_2329" height="30" width="40" /></a>
+<a href="https://dribbble.com/gokulnath-rs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gokulnath-rs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokulnath-rs/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="gokulnath-rs" height="30" width="40" /></a>
 <!--<a href="https://www.leetcode.com/gokulnath_peace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulnath_peace" height="30" width="40" /></a>-->
 </p>
 
