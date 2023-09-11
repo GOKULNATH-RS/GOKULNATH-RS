@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **[Contact Me](https://shor.by/gokulnath-rs)**
 
+- ```npx gokulnathrs``` in your terminal
+
 <!--- 📄 Know about my experiences [resume](https://gokulnath-resume.netlify.app/)-->
 
 <h3 align="left">Connect with me:</h3>
