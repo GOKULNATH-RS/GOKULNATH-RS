@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **[Contact Me](https://shor.by/gokulnath-rs)**
 
-- ### ```npx gokulnathrs``` in your terminal
+- ### ```npx gokulnathrs``` for a quick intro on your Terminal!
 
 <!--- 📄 Know about my experiences [resume](https://gokulnath-resume.netlify.app/)-->
 
