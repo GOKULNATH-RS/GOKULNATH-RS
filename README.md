@@ -44,7 +44,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-mintgreen?style=for-the-badge&logo=figma&logoColor=white)
-
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOKULNATH-RS&show_icons=true&locale=en&layout=compact" alt="gokulnath-rs" /></p>
 
