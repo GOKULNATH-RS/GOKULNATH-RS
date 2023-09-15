@@ -20,21 +20,15 @@
 - ### ```npx gokulnathrs``` for a quick intro on your Terminal!
 
 <!--- 📄 Know about my experiences [resume](https://gokulnath-resume.netlify.app/)-->
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gokulnath_2329" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulnath_2329" height="30" width="40" /></a>
-<a href="https://dribbble.com/gokulnath-rs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gokulnath-rs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gokulnath-rs/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="gokulnath-rs" height="30" width="40" /></a>
-<!--<a href="https://www.leetcode.com/gokulnath_peace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulnath_peace" height="30" width="40" /></a>-->
-</p>
+## Connect With Me 🔭
 
-## Connect With Me 
-  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+  <a href="https://www.linkedin.com/in/gokulnath-rs/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+  <a href="https://twitter.com/gokulnath_2329" target="_blank" > ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
+  <a href="https://dribbble.com/GOKULNATH-RS" > ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) </a>
   
-
+<br>
 
 ## Tech I've Worked With 🥷
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +41,8 @@
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<br>
+
 ## Tools I Use 🛠️
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -54,6 +50,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-mintgreen?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOKULNATH-RS&show_icons=true&locale=en&layout=compact" alt="gokulnath-rs" /></p>
 
