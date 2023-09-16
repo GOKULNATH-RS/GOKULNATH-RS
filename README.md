@@ -24,9 +24,9 @@
 
 ## Connect With Me 🔭
 
-  <a href="https://www.linkedin.com/in/gokulnath-rs/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-  <a href="https://twitter.com/gokulnath_2329" target="_blank" > ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
-  <a href="https://dribbble.com/GOKULNATH-RS" > ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) </a>
+  <a href="https://www.linkedin.com/in/gokulnath-rs/" target="blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+  <a href="https://twitter.com/gokulnath_2329" target="blank" > ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
+  <a href="https://dribbble.com/GOKULNATH-RS" target="blank"> ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) </a>
   
 <br>
 
