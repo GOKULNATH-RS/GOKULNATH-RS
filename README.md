@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio** | **Website Building**
 
-- 🌱 I’m currently learning **MERN Stack , Data Structures .**
+- 🌱 I’m currently learning **MERN Stack , Data Structures, React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gokulnathrs.tech)
 
