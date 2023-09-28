@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Data Structures, React Native**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gokulnathrs.tech)
+- 👨‍💻 Visit my website [gokulnathrs.tech](https://gokulnathrs.tech)
 
 - 💬 Ask me about **HTML CSS React**
 
