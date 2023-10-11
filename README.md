@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulnath-rs&label=Profile%20views&color=0e75b6&style=flat" alt="gokulnath-rs" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=gokulnath-rs&label=Profile%20views&color=0e75b6&style=flat" alt="gokulnath-rs" /> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio** | **Website Building**
 
