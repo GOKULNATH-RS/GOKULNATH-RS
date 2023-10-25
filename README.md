@@ -56,7 +56,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOKULNATH-RS&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="gokulnath-rs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-RS&theme=tokyonight&show_icons=true&locale=en" alt="gokulnath-rs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-RS&theme=tokyonight&show_icons=true&locale=en&rank_icon=github" alt="gokulnath-rs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulnath-rs&theme=tokyonight" alt="gokulnath-rs" /></p>
 
