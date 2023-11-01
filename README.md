@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **NFTs Gallery**
 
-- 🌱 I’m currently learning **MERN Stack, Data Structures, React Native**
+- 🌱 I’m currently learning **MERN Stack, Data Structures**
 
 - 👨‍💻 Visit my website [gokulnathrs.tech](https://gokulnathrs.tech)
 
