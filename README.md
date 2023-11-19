@@ -22,7 +22,7 @@
 
 <br>
 
-- ### ```npx gokulnathrs``` for a quick intro on your Terminal!
+- ### ```npx gokulnathrs``` for a quick intro on your Terminal! 🚀
 <!--- 📄 Know about my experiences [resume](https://gokulnath-resume.netlify.app/)-->
 <br>
 
