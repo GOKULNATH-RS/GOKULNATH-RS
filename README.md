@@ -16,8 +16,6 @@
 
 - 👨‍💻 Visit my website [****gokulnathrs.tech****](https://gokulnathrs.tech)
 
-- 💬 Ask me about **HTML CSS React**
-
 - 📫 How to reach me **[Contact Me](https://shor.by/gokulnath-rs)**
 
 <br>
