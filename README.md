@@ -70,8 +70,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKULNATH-RS&bg_color=1a1b27&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://raw.githubusercontent.com/GOKULNATH-RS/GOKULNATH-RS/master/waves.svg" width="1920" height="150">
+
 
 
