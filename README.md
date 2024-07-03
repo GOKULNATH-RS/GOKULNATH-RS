@@ -11,9 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=gokulnath-rs&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="gokulnath-rs" />
 </p>
 
-<!-- - 🔭 I’m currently working on -->
-
-- 🌱 I’m currently learning **MERN Stack, Data Structures**
 
 - 👨‍💻 Visit my website [****gokulnathrs.tech****](https://gokulnathrs.tech)
 
